@@ -2,7 +2,7 @@
   "settings": {
     "siteName": "Ding Jie",
     "siteTitle": "Ding Jie — Creative Director & Product Designer",
-    "logoText": "ZC",
+    "logoText": "DJ",
     "designerRole": "Creative Director",
     "heroHeadline": "DESIGN",
     "heroTagline": "Creative Exhibition Lab",
@@ -22,7 +22,7 @@
     ],
     "availableStatus": "Available — 2024-2026",
     "contactEmail": "jding8190@gmail.com",
-    "contactWechat": "dingjie_design",
+    "contactWechat": "DJ977900",
     "contactLocation": "Shanghai, China & Remote",
     "copyrightText": "© 2024-2026 DING JIE. ALL RIGHTS RESERVED.",
     "categories": [
@@ -31,7 +31,23 @@
       "品牌视觉",
       "运营设计"
     ],
-    "adminPasscode": "ding8190"
+    "adminPasscode": "ding8190",
+    "heroAboutButtonText": "关于作品 / ABOUT",
+    "aboutLabel": "Philosophy",
+    "aboutHeadline": "极致之美来源于",
+    "aboutHeadlineAccent": "秩序的延伸.",
+    "aboutExpertiseLabel": "Expertise",
+    "aboutMeLabel": "About Me",
+    "aboutImageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&q=80&w=2000",
+    "contactBadge": "Contact & Collaboration",
+    "contactHeadline": "创造更有价值的",
+    "contactHeadlineAccent": "数字感官体验.",
+    "contactIntro": "如果您有有趣的项目或合作想法，欢迎随时联系。我一直在寻找能够挑战传统并重塑交互的机会。",
+    "contactEmailLabel": "Direct Communication / 邮件联络",
+    "contactWechatLabel": "WeChat 微信",
+    "contactLocationLabel": "Location 所在地",
+    "adminToken": "ding8190_admin_token",
+    "updatedAt": "2026-11-13T07:56:12.083Z"
   },
   "projects": [
     {
@@ -183,5 +199,5 @@
       "description": "通过跨媒体的设计语言，为科技品牌提供极具叙事感的视觉解决方案，探索艺术与科技的交汇点。"
     }
   ],
-  "publishedAt": "2026-11-13T15:48:36+08:00"
+  "publishedAt": "2026-11-13T07:56:12.083Z"
 }
